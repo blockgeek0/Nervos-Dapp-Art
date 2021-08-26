@@ -1,4 +1,4 @@
-# Blockchain workshop
+# Art Vote DApp
 
 Start UI:
 
